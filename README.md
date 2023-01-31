@@ -36,17 +36,27 @@ Les résultats seront dans le dossier output sous formes de fichiers csv.
 ### Résultats
 
 #### Top 10 des équipes qui marquent le plus
+![top_10_team](https://user-images.githubusercontent.com/55244579/215908807-c357abf8-a39b-4cc4-99d6-2416a729e3cf.png)
 
 #### Top 10 des meilleurs buteurs internationaux
+![top_10_player](https://user-images.githubusercontent.com/55244579/215908806-da908633-8a3f-4fc9-be4d-901fd252b137.png)
 
 #### Moyenne de buts marqués pour chaque équipe
+![avg_goal_per_match](https://user-images.githubusercontent.com/55244579/215908805-0bc2f621-52dc-4bbb-815a-f2cf9ae7e65e.png)
 
 #### Nombre de buts marqués en première/deuxième mi-temps et prolongation
+![avg_goal_per_match](https://user-images.githubusercontent.com/55244579/215908804-c11d39c8-f099-4e98-8279-b764aa9d05b2.png)
 
 #### Pourcentage de but marqué par Cristiano Ronaldo à l'extérieur et à domicile
+![ronaldo_goals](https://user-images.githubusercontent.com/55244579/215908802-5839a0ec-9877-48dc-a5e7-3fe5a2f9eb1c.png)
 
 #### Pourcentage de gagner à domicile, à l'extérieur ou bien de faire un nul
+![win_loose_draw](https://user-images.githubusercontent.com/55244579/215908809-018bab92-2b22-40df-a9d1-dfb4fe526591.png)
 
 #### Totaux de buts marqués chaque année
+![goals_each_year](https://user-images.githubusercontent.com/55244579/215908808-5cba83e8-314c-4be3-87ec-5436ce76afc8.png)
+
 
 ### Points d'amélioration
+On voulait à la base lier ce dataset avec un autre relatant des conflits qui ont eu lieu durant le 20-21ème siècle afin de voir s'il y a une corrélation entre la forme d'une équipe nationale et la situation dans le pays. Mais malgré une contrainte de temps nous n'avons pas eu le temps de faire cela.
+Nous aurions également voulu utiliser Grafana ou bien Tableau pour la visualisation, même si les graphiques Excel sont suffisants pour les requêtes qu'on a fait.
